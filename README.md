@@ -1,0 +1,1 @@
+hasil evaluasi mungkin akan berbeda jika di run ulang, tetapi perbedaan tidak terlalu signifikan contoh dr kasus sebelumnya dari 0.7710 ke 0.7793, ada kemungkinan akan terjadi peningkatan atau penurunan tetapi tetap masih pada angka sekitar
